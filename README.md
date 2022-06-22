@@ -1,8 +1,8 @@
 ## Hello there,:facepunch:I'm [Olamilekan](https://www.linkedin.com/in/olamilekan-omotosho/).
 
-I am enthusiastic about anything related to Data. I fit in roles as a Data Analyst, A junior Data Scientist or a Machine Learning Engineer. I solved day to day problems using a data-driven approach. I have a keen eye for patterns and trends in data with the goal of drawing out meaningful insight.  
+Olamilekan is enthusiastic about anything related to Data, fits in roles as a Data Analyst, A junior Data Scientist or a Machine Learning Engineer. I solved day to day problems using a data-driven approach with a keen eye for patterns and trends in data to draw out meaningful insight.  
 
-I started learning C to have deeper knowledge of programming and I also aim to develop my technical writing skillset for proper documentation of projects.
+Currently learning C to have deeper knowledge of programming and I also aim to develop my technical writing skillset for proper documentation of projects.
 <br>
 👯 I’m looking to collaborate on projects or any Data roles (remotely or hybrid) via omotoshomatthew73@gmail.com<br/>
 
@@ -28,16 +28,12 @@ I started learning C to have deeper knowledge of programming and I also aim to d
 ## Stats 🚀
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olamilekan002&layout=compact&theme=light&hide_border=false" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Olamilekan002&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt="Olmailekan" />
-
-<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Olamilekan002}1212%2Fhit-counter
-&layout=compact&theme=light&hide_border=false" />
-
-<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Olamilekan002}1212%2Fhit-counter
-&layout=compact&theme=light&hide_border=false" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Olamilekan002&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt="Olmailekan" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Olamilekan002&" alt="Olamilekan002" /></p>
+
+![Trophys](https://github-profile-trophy.vercel.app/?username=Olamilekan002)
+![Summary](https://activity-graph.herokuapp.com/graph?username=Olamilekan002&theme=minimal)
+
 <br/>
 
 ## CONNECT WITH ME
