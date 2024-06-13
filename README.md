@@ -1,8 +1,7 @@
-## Hello there,:facepunch:I'm [Olamilekan](https://www.linkedin.com/in/olamilekan-omotosho/).
+## Hello there, I'm [Olamilekan](https://www.linkedin.com/in/olamilekan-omotosho/).
 
-Olamilekan is enthusiastic about anything related to Data, fits in roles as a Data Analyst, A junior Data Scientist or a Machine Learning Engineer. I solved day to day problems using a data-driven approach with a keen eye for patterns and trends in data to draw out meaningful insight.  
+Olamilekan is enthusiastic about anything related to Data and fits in roles as A Data Scientist, a Machine Learning Engineer, and a Data Analyst. I solved day-to-day problems using a data-driven approach with a keen eye for patterns and trends in data to draw out meaningful insight.  
 
-Currently learning C to have deeper knowledge of programming and I also aim to develop my technical writing skillset for proper documentation of projects.
 <br>
 👯 I’m looking to collaborate on projects or any Data roles (remotely or hybrid) via omotoshomatthew73@gmail.com<br/>
 
