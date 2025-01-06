@@ -29,8 +29,6 @@ Olamilekan is enthusiastic about anything related to Data and fits in roles as A
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olamilekan002&layout=compact&theme=light&hide_border=false" />
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Olamilekan002&" alt="Olamilekan002" /></p>
-
 ![Trophys](https://github-profile-trophy.vercel.app/?username=Olamilekan002)
 ![Summary](https://activity-graph.herokuapp.com/graph?username=Olamilekan002&theme=minimal)
 
