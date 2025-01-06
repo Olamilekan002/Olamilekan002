@@ -30,7 +30,6 @@ Olamilekan is enthusiastic about anything related to Data and fits in roles as A
 
 
 ![Trophys](https://github-profile-trophy.vercel.app/?username=Olamilekan002)
-![Summary](https://activity-graph.herokuapp.com/graph?username=Olamilekan002&theme=minimal)
 
 <br/>
 
