@@ -28,7 +28,6 @@ Olamilekan is enthusiastic about anything related to Data and fits in roles as A
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olamilekan002&layout=compact&theme=light&hide_border=false" />
 
-![Report](https://github-readme-stats.vercel.app/api?username=Olamilekan002)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Olamilekan002&" alt="Olamilekan002" /></p>
 
