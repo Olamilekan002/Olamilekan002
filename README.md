@@ -1,4 +1,4 @@
-## Hello there, I'm [Olamilekan](https://www.linkedin.com/in/olamilekan-omotosho/).
+## Hello there, I'm [Olamilekan Matthew](https://www.linkedin.com/in/olamilekan-omotosho/).
 
 Olamilekan is enthusiastic about anything related to Data and fits in roles as A Data Scientist, a Machine Learning Engineer, and a Data Analyst. I solved day-to-day problems using a data-driven approach with a keen eye for patterns and trends in data to draw out meaningful insight.  
 
